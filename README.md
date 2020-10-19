@@ -1,0 +1,2 @@
+# skladok
+skladok.by
